@@ -52,6 +52,7 @@ function MainPost(props: MainPostProps) {
                         <Box sx={{my: 2}}>
                             {props.post.tags.map((tag) => (
                                 <Chip
+                                    key={`post_tag_${tag}`}
                                     label={tag}
                                     color={'primary'}
                                     clickable={true}

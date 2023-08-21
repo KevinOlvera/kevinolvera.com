@@ -1,9 +1,11 @@
-import React from "react";
+import React, {useEffect, useState} from "react";
 
 import {data} from "../database";
 import RecentPosts from "./blog/recentPosts";
 import Footer from "./Footer";
 import MainPost from "./blog/mainPost";
+import {Client} from "@notionhq/client";
+import {getPosts, getPostsAxios} from "../utils/notion";
 
 const posts = data;
 

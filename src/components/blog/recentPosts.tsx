@@ -24,7 +24,7 @@ function RecentPosts(props: RecentPostsProps) {
                         <Typography variant={"h5"} sx={{}}>Recent blog posts</Typography>
                     </Grid>
                     {props.posts.map((post) => (
-                        <Grid item xs={12} sm={12} md={4} sx={{}}>
+                        <Grid key={`recent_post${post.id}`} item xs={12} sm={12} md={4} sx={{}}>
                             <BlogPostCard post={post}/>
                         </Grid>
                     ))}

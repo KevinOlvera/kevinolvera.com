@@ -180,7 +180,8 @@ function Navbar() {
                         <Tooltip title="Open settings">
                             <IconButton onClick={handleOpenUserMenu} sx={{p: 0}}>
                                 <Avatar alt="Kovin"
-                                        src="https://picsur.kevo.mx/i/1e96a393-4f41-4d19-adf8-01e0dd3cbe0d.jpg"/>
+                                        src="https://picsur.kevo.mx/i/00cda7bc-8bf8-4d83-a6b1-ded76e56f8a3.jpg"
+                                />
                             </IconButton>
                         </Tooltip>
                         <Menu

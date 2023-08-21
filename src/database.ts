@@ -47,7 +47,7 @@ In this example, we have created an instance of \`alive_bar\` with an argument o
         updatedDate: '2023-05-02',
         tags: ['Python', 'Productivity', 'pip-module'],
         author: 'Kevin Olvera',
-        coverImage: 'https://picsur.kevo.mx/i/5741d5fc-e163-4b4d-8266-1e23059b8a7a.jpg?height=700&width=1400',
+        coverImage: 'https://picsur.kevo.mx/i/d128881f-0a7e-42a6-8d9a-98ee5489f954.jpg',
         coverAttribution: 'Image from rawpixel.com on Freepik',
         slug: 'python-tips-enhancing-execution-tracking-with-alive-progress',
         url: 'https://blog.kevinolvera.com/python-tips-enhancing-execution-tracking-with-alive-progress',
@@ -133,7 +133,7 @@ In this example, we are creating a list called \`data\` and using the \`csv.writ
 
 Working with CSV files in Python is a fundamental skill for any data scientist or analyst. In this post, we've covered the basics of how to import, manipulate, and export data from CSV files using Python's built-in libraries. Armed with this knowledge, you'll be able to handle CSV files with ease and take your data projects to the next level.
     `,
-        coverImage: 'https://picsur.kevo.mx/i/fbcdb206-b893-4c11-82f1-c84cab733de0.jpg?height=700&width=1400',
+        coverImage: 'https://picsur.kevo.mx/i/3447f665-f2d3-456b-8321-08fe7c4e2474.jpg',
         coverAttribution: 'Image from rawpixel.com on Freepik',
         slug: 'working-with-csv-files-in-python-how-to-import-manipulate-and-export-data',
         author: 'Kevin Olvera',
@@ -177,7 +177,7 @@ Finally, network protocols are the set of rules and standards that govern how de
 In this post, we've covered some of the key concepts that form the foundation of computer networking. By understanding IP addresses, DNS, routing, and network protocols, you'll be well on your way to gaining a deeper understanding of how networks work. Whether you're interested in pursuing a career in network administration or simply want to improve your understanding of the technology that powers our connected world, we hope this post has been helpful.
     `,
         description: 'Are you curious about computer networking but don\'t know where to start? Our latest post has got you covered! We\'ll introduce you to the basics of computer networking, including must-know concepts like IP addresses, DNS, routing, and network protocols. Join us for a fun and approachable journey into the world of computer networking!',
-        coverImage: 'https://picsur.kevo.mx/i/805e6e1c-7210-41c8-8753-fe4ae395a76a.jpg?height=700&width=1400',
+        coverImage: 'https://picsur.kevo.mx/i/1f8c8c4c-0927-474a-8c11-dea8d81e89ca.jpg',
         coverAttribution: 'Image from victor217 on Freepik',
         slug: 'networking-1-an-introduction-to-basic-computer-network-concepts',
         author: 'Kevin Olvera',
